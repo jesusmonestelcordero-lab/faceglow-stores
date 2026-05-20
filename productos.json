@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Crema Hidratante Facial",
+    "categoria": "Hidratación",
+    "precio": 8500,
+    "descripcion": "Crema facial con ácido hialurónico que hidrata profundamente la piel y ayuda a mantener una apariencia fresca y saludable.",
+    "beneficios": "Hidratación profunda y suavidad en la piel.",
+    "imagen": "img/hidratante.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Sérum Vitamina C",
+    "categoria": "Rejuvenecimiento",
+    "precio": 12000,
+    "descripcion": "Sérum antioxidante que ayuda a iluminar la piel y reducir manchas ocasionadas por el sol.",
+    "beneficios": "Aclara manchas y mejora la luminosidad facial.",
+    "imagen": "img/Serum-Vitamina.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Protector Solar Facial SPF 50",
+    "categoria": "Protección",
+    "precio": 9500,
+    "descripcion": "Protector solar de rápida absorción que protege la piel contra rayos UVA y UVB.",
+    "beneficios": "Previene manchas y envejecimiento prematuro.",
+    "imagen": "img/protector-solar.jpg.jpg"
+  }
+]
